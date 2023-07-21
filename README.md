@@ -1,1 +1,1 @@
-# Indian-_Census_SQL_Projects
+# Indian_Census_SQL_Projects
